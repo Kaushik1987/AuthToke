@@ -1,0 +1,137 @@
+D:\Jignesh Workspace\Code\By JP\Token Auth\TokenAuth\TokenAuth\obj\Debug\TokenAuth.csprojResolveAssemblyReference.cache
+D:\Jignesh Workspace\Code\By JP\Token Auth\TokenAuth\TokenAuth\bin\TokenAuth.dll.config
+D:\Jignesh Workspace\Code\By JP\Token Auth\TokenAuth\TokenAuth\bin\TokenAuth.dll
+D:\Jignesh Workspace\Code\By JP\Token Auth\TokenAuth\TokenAuth\bin\TokenAuth.pdb
+D:\Jignesh Workspace\Code\By JP\Token Auth\TokenAuth\TokenAuth\bin\Antlr3.Runtime.dll
+D:\Jignesh Workspace\Code\By JP\Token Auth\TokenAuth\TokenAuth\bin\Microsoft.Owin.Cors.dll
+D:\Jignesh Workspace\Code\By JP\Token Auth\TokenAuth\TokenAuth\bin\Microsoft.Owin.dll
+D:\Jignesh Workspace\Code\By JP\Token Auth\TokenAuth\TokenAuth\bin\Microsoft.Owin.Security.dll
+D:\Jignesh Workspace\Code\By JP\Token Auth\TokenAuth\TokenAuth\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Jignesh Workspace\Code\By JP\Token Auth\TokenAuth\TokenAuth\bin\Microsoft.Web.Infrastructure.dll
+D:\Jignesh Workspace\Code\By JP\Token Auth\TokenAuth\TokenAuth\bin\Newtonsoft.Json.dll
+D:\Jignesh Workspace\Code\By JP\Token Auth\TokenAuth\TokenAuth\bin\Owin.dll
+D:\Jignesh Workspace\Code\By JP\Token Auth\TokenAuth\TokenAuth\bin\System.Net.Http.Formatting.dll
+D:\Jignesh Workspace\Code\By JP\Token Auth\TokenAuth\TokenAuth\bin\System.Web.Cors.dll
+D:\Jignesh Workspace\Code\By JP\Token Auth\TokenAuth\TokenAuth\bin\System.Web.Helpers.dll
+D:\Jignesh Workspace\Code\By JP\Token Auth\TokenAuth\TokenAuth\bin\System.Web.Http.dll
+D:\Jignesh Workspace\Code\By JP\Token Auth\TokenAuth\TokenAuth\bin\System.Web.Http.WebHost.dll
+D:\Jignesh Workspace\Code\By JP\Token Auth\TokenAuth\TokenAuth\bin\System.Web.Mvc.dll
+D:\Jignesh Workspace\Code\By JP\Token Auth\TokenAuth\TokenAuth\bin\System.Web.Optimization.dll
+D:\Jignesh Workspace\Code\By JP\Token Auth\TokenAuth\TokenAuth\bin\System.Web.Razor.dll
+D:\Jignesh Workspace\Code\By JP\Token Auth\TokenAuth\TokenAuth\bin\System.Web.WebPages.Deployment.dll
+D:\Jignesh Workspace\Code\By JP\Token Auth\TokenAuth\TokenAuth\bin\System.Web.WebPages.dll
+D:\Jignesh Workspace\Code\By JP\Token Auth\TokenAuth\TokenAuth\bin\System.Web.WebPages.Razor.dll
+D:\Jignesh Workspace\Code\By JP\Token Auth\TokenAuth\TokenAuth\bin\WebGrease.dll
+D:\Jignesh Workspace\Code\By JP\Token Auth\TokenAuth\TokenAuth\bin\Microsoft.Owin.xml
+D:\Jignesh Workspace\Code\By JP\Token Auth\TokenAuth\TokenAuth\bin\Microsoft.Owin.Cors.xml
+D:\Jignesh Workspace\Code\By JP\Token Auth\TokenAuth\TokenAuth\bin\Microsoft.Owin.Security.xml
+D:\Jignesh Workspace\Code\By JP\Token Auth\TokenAuth\TokenAuth\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Jignesh Workspace\Code\By JP\Token Auth\TokenAuth\TokenAuth\bin\Newtonsoft.Json.xml
+D:\Jignesh Workspace\Code\By JP\Token Auth\TokenAuth\TokenAuth\bin\System.Net.Http.Formatting.xml
+D:\Jignesh Workspace\Code\By JP\Token Auth\TokenAuth\TokenAuth\bin\System.Web.Helpers.xml
+D:\Jignesh Workspace\Code\By JP\Token Auth\TokenAuth\TokenAuth\bin\System.Web.Http.xml
+D:\Jignesh Workspace\Code\By JP\Token Auth\TokenAuth\TokenAuth\bin\System.Web.Http.WebHost.xml
+D:\Jignesh Workspace\Code\By JP\Token Auth\TokenAuth\TokenAuth\bin\System.Web.Mvc.xml
+D:\Jignesh Workspace\Code\By JP\Token Auth\TokenAuth\TokenAuth\bin\System.Web.Optimization.xml
+D:\Jignesh Workspace\Code\By JP\Token Auth\TokenAuth\TokenAuth\bin\System.Web.Razor.xml
+D:\Jignesh Workspace\Code\By JP\Token Auth\TokenAuth\TokenAuth\bin\System.Web.WebPages.xml
+D:\Jignesh Workspace\Code\By JP\Token Auth\TokenAuth\TokenAuth\bin\System.Web.WebPages.Deployment.xml
+D:\Jignesh Workspace\Code\By JP\Token Auth\TokenAuth\TokenAuth\bin\System.Web.WebPages.Razor.xml
+D:\Jignesh Workspace\Code\By JP\Token Auth\TokenAuth\TokenAuth\bin\Antlr3.Runtime.pdb
+D:\Jignesh Workspace\Code\By JP\Token Auth\TokenAuth\TokenAuth\obj\Debug\TokenAuth.dll
+D:\Jignesh Workspace\Code\By JP\Token Auth\TokenAuth\TokenAuth\obj\Debug\TokenAuth.pdb
+D:\Jignesh Workspace\Code\By JP\Token Auth\TokenAuth\TokenAuth\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Jignesh Workspace\Code\By JP\Token Auth\TokenAuth\TokenAuth\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Jignesh Workspace\Najm\Source Code\TokenAuth\TokenAuth\bin\TokenAuth.dll.config
+D:\Jignesh Workspace\Najm\Source Code\TokenAuth\TokenAuth\bin\TokenAuth.dll
+D:\Jignesh Workspace\Najm\Source Code\TokenAuth\TokenAuth\bin\TokenAuth.pdb
+D:\Jignesh Workspace\Najm\Source Code\TokenAuth\TokenAuth\bin\Antlr3.Runtime.dll
+D:\Jignesh Workspace\Najm\Source Code\TokenAuth\TokenAuth\bin\Microsoft.Owin.Cors.dll
+D:\Jignesh Workspace\Najm\Source Code\TokenAuth\TokenAuth\bin\Microsoft.Owin.dll
+D:\Jignesh Workspace\Najm\Source Code\TokenAuth\TokenAuth\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Jignesh Workspace\Najm\Source Code\TokenAuth\TokenAuth\bin\Microsoft.Owin.Security.dll
+D:\Jignesh Workspace\Najm\Source Code\TokenAuth\TokenAuth\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Jignesh Workspace\Najm\Source Code\TokenAuth\TokenAuth\bin\Microsoft.Web.Infrastructure.dll
+D:\Jignesh Workspace\Najm\Source Code\TokenAuth\TokenAuth\bin\Newtonsoft.Json.dll
+D:\Jignesh Workspace\Najm\Source Code\TokenAuth\TokenAuth\bin\Owin.dll
+D:\Jignesh Workspace\Najm\Source Code\TokenAuth\TokenAuth\bin\System.Net.Http.Formatting.dll
+D:\Jignesh Workspace\Najm\Source Code\TokenAuth\TokenAuth\bin\System.Web.Cors.dll
+D:\Jignesh Workspace\Najm\Source Code\TokenAuth\TokenAuth\bin\System.Web.Helpers.dll
+D:\Jignesh Workspace\Najm\Source Code\TokenAuth\TokenAuth\bin\System.Web.Http.dll
+D:\Jignesh Workspace\Najm\Source Code\TokenAuth\TokenAuth\bin\System.Web.Http.WebHost.dll
+D:\Jignesh Workspace\Najm\Source Code\TokenAuth\TokenAuth\bin\System.Web.Mvc.dll
+D:\Jignesh Workspace\Najm\Source Code\TokenAuth\TokenAuth\bin\System.Web.Optimization.dll
+D:\Jignesh Workspace\Najm\Source Code\TokenAuth\TokenAuth\bin\System.Web.Razor.dll
+D:\Jignesh Workspace\Najm\Source Code\TokenAuth\TokenAuth\bin\System.Web.WebPages.Deployment.dll
+D:\Jignesh Workspace\Najm\Source Code\TokenAuth\TokenAuth\bin\System.Web.WebPages.dll
+D:\Jignesh Workspace\Najm\Source Code\TokenAuth\TokenAuth\bin\System.Web.WebPages.Razor.dll
+D:\Jignesh Workspace\Najm\Source Code\TokenAuth\TokenAuth\bin\WebGrease.dll
+D:\Jignesh Workspace\Najm\Source Code\TokenAuth\TokenAuth\bin\Microsoft.Owin.xml
+D:\Jignesh Workspace\Najm\Source Code\TokenAuth\TokenAuth\bin\Microsoft.Owin.Cors.xml
+D:\Jignesh Workspace\Najm\Source Code\TokenAuth\TokenAuth\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Jignesh Workspace\Najm\Source Code\TokenAuth\TokenAuth\bin\Microsoft.Owin.Security.xml
+D:\Jignesh Workspace\Najm\Source Code\TokenAuth\TokenAuth\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Jignesh Workspace\Najm\Source Code\TokenAuth\TokenAuth\bin\Newtonsoft.Json.xml
+D:\Jignesh Workspace\Najm\Source Code\TokenAuth\TokenAuth\bin\System.Net.Http.Formatting.xml
+D:\Jignesh Workspace\Najm\Source Code\TokenAuth\TokenAuth\bin\System.Web.Helpers.xml
+D:\Jignesh Workspace\Najm\Source Code\TokenAuth\TokenAuth\bin\System.Web.Http.xml
+D:\Jignesh Workspace\Najm\Source Code\TokenAuth\TokenAuth\bin\System.Web.Http.WebHost.xml
+D:\Jignesh Workspace\Najm\Source Code\TokenAuth\TokenAuth\bin\System.Web.Mvc.xml
+D:\Jignesh Workspace\Najm\Source Code\TokenAuth\TokenAuth\bin\System.Web.Optimization.xml
+D:\Jignesh Workspace\Najm\Source Code\TokenAuth\TokenAuth\bin\System.Web.Razor.xml
+D:\Jignesh Workspace\Najm\Source Code\TokenAuth\TokenAuth\bin\System.Web.WebPages.xml
+D:\Jignesh Workspace\Najm\Source Code\TokenAuth\TokenAuth\bin\System.Web.WebPages.Deployment.xml
+D:\Jignesh Workspace\Najm\Source Code\TokenAuth\TokenAuth\bin\System.Web.WebPages.Razor.xml
+D:\Jignesh Workspace\Najm\Source Code\TokenAuth\TokenAuth\bin\Antlr3.Runtime.pdb
+D:\Jignesh Workspace\Najm\Source Code\TokenAuth\TokenAuth\obj\Debug\TokenAuth.csprojResolveAssemblyReference.cache
+D:\Jignesh Workspace\Najm\Source Code\TokenAuth\TokenAuth\obj\Debug\TokenAuth.dll
+D:\Jignesh Workspace\Najm\Source Code\TokenAuth\TokenAuth\obj\Debug\TokenAuth.pdb
+D:\Jignesh Workspace\Najm\Source Code\TokenAuth\TokenAuth\bin\Swashbuckle.Core.dll
+D:\Jignesh Workspace\Najm\Source Code\TokenAuth\TokenAuth\bin\WebActivatorEx.dll
+D:\Projects\TokenAuth\TokenAuth\bin\TokenAuth.dll.config
+D:\Projects\TokenAuth\TokenAuth\bin\TokenAuth.dll
+D:\Projects\TokenAuth\TokenAuth\bin\TokenAuth.pdb
+D:\Projects\TokenAuth\TokenAuth\bin\Antlr3.Runtime.dll
+D:\Projects\TokenAuth\TokenAuth\bin\Microsoft.Owin.Cors.dll
+D:\Projects\TokenAuth\TokenAuth\bin\Microsoft.Owin.dll
+D:\Projects\TokenAuth\TokenAuth\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Projects\TokenAuth\TokenAuth\bin\Microsoft.Owin.Security.dll
+D:\Projects\TokenAuth\TokenAuth\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Projects\TokenAuth\TokenAuth\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\TokenAuth\TokenAuth\bin\Newtonsoft.Json.dll
+D:\Projects\TokenAuth\TokenAuth\bin\Owin.dll
+D:\Projects\TokenAuth\TokenAuth\bin\Swashbuckle.Core.dll
+D:\Projects\TokenAuth\TokenAuth\bin\System.Net.Http.Formatting.dll
+D:\Projects\TokenAuth\TokenAuth\bin\System.Web.Cors.dll
+D:\Projects\TokenAuth\TokenAuth\bin\System.Web.Helpers.dll
+D:\Projects\TokenAuth\TokenAuth\bin\System.Web.Http.dll
+D:\Projects\TokenAuth\TokenAuth\bin\System.Web.Http.WebHost.dll
+D:\Projects\TokenAuth\TokenAuth\bin\System.Web.Mvc.dll
+D:\Projects\TokenAuth\TokenAuth\bin\System.Web.Optimization.dll
+D:\Projects\TokenAuth\TokenAuth\bin\System.Web.Razor.dll
+D:\Projects\TokenAuth\TokenAuth\bin\System.Web.WebPages.Deployment.dll
+D:\Projects\TokenAuth\TokenAuth\bin\System.Web.WebPages.dll
+D:\Projects\TokenAuth\TokenAuth\bin\System.Web.WebPages.Razor.dll
+D:\Projects\TokenAuth\TokenAuth\bin\WebActivatorEx.dll
+D:\Projects\TokenAuth\TokenAuth\bin\WebGrease.dll
+D:\Projects\TokenAuth\TokenAuth\bin\Microsoft.Owin.xml
+D:\Projects\TokenAuth\TokenAuth\bin\Microsoft.Owin.Cors.xml
+D:\Projects\TokenAuth\TokenAuth\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Projects\TokenAuth\TokenAuth\bin\Microsoft.Owin.Security.xml
+D:\Projects\TokenAuth\TokenAuth\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Projects\TokenAuth\TokenAuth\bin\Newtonsoft.Json.xml
+D:\Projects\TokenAuth\TokenAuth\bin\System.Net.Http.Formatting.xml
+D:\Projects\TokenAuth\TokenAuth\bin\System.Web.Helpers.xml
+D:\Projects\TokenAuth\TokenAuth\bin\System.Web.Http.xml
+D:\Projects\TokenAuth\TokenAuth\bin\System.Web.Http.WebHost.xml
+D:\Projects\TokenAuth\TokenAuth\bin\System.Web.Mvc.xml
+D:\Projects\TokenAuth\TokenAuth\bin\System.Web.Optimization.xml
+D:\Projects\TokenAuth\TokenAuth\bin\System.Web.Razor.xml
+D:\Projects\TokenAuth\TokenAuth\bin\System.Web.WebPages.xml
+D:\Projects\TokenAuth\TokenAuth\bin\System.Web.WebPages.Deployment.xml
+D:\Projects\TokenAuth\TokenAuth\bin\System.Web.WebPages.Razor.xml
+D:\Projects\TokenAuth\TokenAuth\bin\Antlr3.Runtime.pdb
+D:\Projects\TokenAuth\TokenAuth\obj\Debug\TokenAuth.csprojResolveAssemblyReference.cache
+D:\Projects\TokenAuth\TokenAuth\obj\Debug\TokenAuth.csproj.CoreCompileInputs.cache
+D:\Projects\TokenAuth\TokenAuth\obj\Debug\TokenAuth.dll
+D:\Projects\TokenAuth\TokenAuth\obj\Debug\TokenAuth.pdb
